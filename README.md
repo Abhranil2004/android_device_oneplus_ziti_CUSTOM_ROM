@@ -39,7 +39,8 @@ This is a custom ROM based on Lineage OS for the OnePlus Nord CE 3, running the 
 
 ## Known Issues
 
-[List any known issues or bugs that users should be aware of]
+1. FP and vibration are dead
+2. Oneplus portrait
 
 ## Feedback and Bug Reports
 
