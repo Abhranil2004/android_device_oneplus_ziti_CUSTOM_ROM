@@ -9,8 +9,8 @@ This is a custom ROM based on Lineage OS for the OnePlus Nord CE 3, running the 
 ## Features
 
 - **Android Version:** Android 14
-- **Lineage OS Base:** Version 21.0
-- **Kernel Version:** X.X.X
+- **Lineage OS Base:** Version 21.0 (UNOFFICIAL)
+- **Kernel Version:** 5.4.259
 
 ## Installation Instructions
 
